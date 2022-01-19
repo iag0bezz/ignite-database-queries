@@ -41,6 +41,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.JS](https://nodejs.org/en/)
 - [Express](https://sass-lang.com/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [TypeORM](https://typeorm.io/)
+- [PostgreSQL](https://typeorm.io/)
 
 <!-- Caso necessário, adicionar outras. -->
 
@@ -48,7 +50,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto foi desenvolvido durante a trilha de Node.JS do programa Ignite, da RocketSeat, um programa de aceleração como foco na sua especialização, para quem já domina programação.
 
-Projeto: Conceitos do Node.js
+Projeto: Database Queries
 
 ## 🛠 Testes
 ### Repositórios da aplicação
